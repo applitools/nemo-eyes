@@ -30,7 +30,7 @@ A [nemo](https://github.com/paypal/nemo) plugin for automated visual testing usi
           "apiKey" : "yourAPIKey",      /* Required,  */
           "width" : 800,                /* Required, format - Number */
           "height" : 600,               /* Required, format - Number */
-          "log" : true                  /* Optional */
+          "log" : true,                 /* Optional */
           "fullPageScreenShot" : true   /* Optional */
      }
   }
